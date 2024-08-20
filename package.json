@@ -1,0 +1,19 @@
+{
+  "name": "umagwan_cli_number_guessing",
+  "version": "1.0.0",
+  "description": "This is CLI number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umair Mujeeb",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
